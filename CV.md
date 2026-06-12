@@ -1,20 +1,21 @@
-# NICOLA KAHALE
+\nametitle{NICOLA KAHALE}
 
-402 Almora Loop, Mooresville NC 28115 | (508) 335-9695 | nicola.kahale@gmail.com | [linkedin.com/in/nicola-kahale](https://www.google.com/search?q=https://linkedin.com/in/nicola-kahale)
+\contact{402 Almora Loop, Mooresville NC 28115 \hfill (508) 335-9695 \hfill nicola.kahale@gmail.com \hfill linkedin.com/in/nicola-kahale}
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Senior Software Engineer and Systems Expert with over 6 years of experience driving cross-functional collaboration and ensuring the resilience of complex SaaS platforms. Passionate about technical accountability, system optimization, and bridging the gap between full-stack infrastructure and enterprise business requirements. Proven track record of leveraging cloud infrastructure (AWS), containerization, and observability tools (Splunk, DataDog) to isolate performance bottlenecks and validate microservices architectures. Advanced practitioner in deploying Al agents and developer tooling (Claude Code, GitHub Copilot) to accelerate technical workflows and increase delivery efficiency. Adept at leading technical discovery sessions, translating complex capabilities into clear technical strategies, and navigating remote-first team environments.
+::: {.include file="professional-summary.md"}
+:::
 
 ## SKILLS
 
-* Cloud & Infrastructure Architecture: AWS, Docker (Environment Virtualization), Azure (familiarity)
-* Observability & Performance Tuning: Splunk, DataDog, Gatling (Performance Testing), Distributed Microservices Validation
-* Programming & Scripting: Python (Data Libraries & API Integration), Java, Javascript, C#
-* Al & Machine Learning Integration: Claude Code, GitHub Copilot, ChatGPT, Agentic Productivity Workflows
-* Automation, DevOps & CI/CD: Jenkins, GitHub Pipelines, Postman, TestNG, JUnit
-* Databases & Systems: MySQL, DynamoDB, Singlestore, Relational Database Configuration
-* Methodologies & Leadership: Technical Discovery, Agile/Scrum, Cross-functional Stakeholder Management
+* **AI/ML Integration & Agent Development**: AI Skills & Workflows, Claude Code, GitHub Copilot, ChatGPT, Agentic Productivity Workflows, Prompt Engineering & Optimization
+* **Performance & Test Automation**: Playwright, k6, Automation Framework Design, AI-Driven Test Generation, Performance Baseline Testing
+* **Cloud & Infrastructure Architecture**: AWS, Docker, Azure (familiarity)
+* **Programming & Scripting**: Python, Java, JavaScript, C#
+* **CI/CD & DevOps**: Jenkins, GitHub Pipelines, Postman, TestNG, JUnit
+* **Databases**: MySQL, DynamoDB, Singlestore
+* **Technical Enablement**: Workshop Facilitation, Technical Training, Technical Discovery, Agile/Scrum, Cross-functional Stakeholder Management
 
 ## EXPERIENCE
 
@@ -33,7 +34,11 @@ MARCH 2020-MAY 2026 NORTH BILLERICA, MA
 * Analyze business requirements and technical acceptance criteria to identify gaps, evaluate architecture trade-offs, and design strategic end-to-end validation solutions for front-end, back-end, and microservice features.
 * Developed a comprehensive, scalable Python framework utilizing Pandas, NumPy, and PyTest libraries to interface with AWS S3 infrastructure and validate large-scale data transformations.
 * Spearheaded cross-team framework and infrastructure improvements within the SaaS environment, leading a successful initiative to move distributed microservices to an opt-in auto-deployment framework.
-* Deploy and master advanced Al agents, including Claude Code and GitHub Copilot, into the daily engineering workflow to increase productivity, optimize code patterns, and accelerate technical content delivery.
+* Designed and built custom AI agent skills and workflows to optimize daily engineering productivity, evaluating skill-based prompting vs. raw prompting to establish team best practices and accelerate onboarding for new engineers through reusable workflow patterns.
+* Developed an AI-driven test automation framework using Playwright and k6 to validate chatbot UI and API endpoints, creating reusable AI skills that enabled teammates to independently generate and maintain test coverage.
+* Championed AI best practices across the organization, advocating for and helping define the company's AI specifications workflow to accelerate adoption of agentic development patterns.
+* As a sole engineer, performance-baselined a chatbot microservice end-to-end, covering both UI interaction and API performance using automation frameworks built with AI-assisted development.
+* Pioneered vertical subagent workflows for integration-level testing, shifting from piecemeal horizontal coverage to end-to-end test paths that surface system-level issues earlier.
 * Orchestrate and coordinate the release and deployment of multiple complex software product modules, managing extensive regression testing and mitigating risk in production environments.
 * Partner cross-functionally with Development, Product Management, and Support teams to troubleshoot and resolve critical infrastructure and system incidents, maintaining strict feature testability.
 * Assess full-stack release readiness and isolate environmental risks using tools such as Postman for API validation and Docker for complex environment virtualization.
@@ -46,9 +51,9 @@ JULY 2018-MARCH 2020 BEVERLY, MA
 * Created and delivered highly technical software release presentations to stakeholders, expertly communicating product roadmaps, architectural dependencies, and technical advantages.
 * Partnered directly with software developers and product management to validate that implementation strategies successfully aligned with complex enterprise requirements.
 * Maintained code repositories using Git for source code management and configured, updated, and managed Jenkins-based build servers to support continuous delivery.
-* Utilized technical depth to aid in debugging, performance isolation, and troubleshooting within a complex C# codebase. HighRes Biosolutions |
+* Utilized technical depth to aid in debugging, performance isolation, and troubleshooting within a complex C# codebase.
 
-### Software Automation Engineer II
+### HighRes Biosolutions | Software Automation Engineer II
 
 APRIL 2018-JULY 2018 BEVERLY, MA
 
@@ -66,14 +71,14 @@ SEPTEMBER 2016-APRIL 2018 BEVERLY, MA
 
 ### PerkinElmer Inc. | Research Associate
 
-APRIL 2015-SEPTEMBER 2016 HOPKINTΟΝ, ΜΑ
+APRIL 2015-SEPTEMBER 2016 HOPKINTON, MA
 
 * Performed, optimized, and troubleshooted multiplex imaging assays, ensuring alignment between complex software analysis tools and laboratory hardware platforms.
 * Partnered with senior team members to design and execute scientific experiments, leveraging data analysis software to interpret and present complex technical findings to stakeholders.
 
 ### MGH Institute of Health Professions  Simulation Lab Technician
 
-DECEMBER 2014-APRIL 2015 CHARLESTOWN, MΜΑ
+DECEMBER 2014-APRIL 2015 CHARLESTOWN, MA
 
 * Managed, configured, and troubleshooted physical simulation equipment and mannequin software to create highly realistic mock environments for educational training.
 
