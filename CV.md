@@ -9,13 +9,22 @@
 
 ## SKILLS
 
-* **AI/ML Integration & Agent Development**: AI Skills & Workflows, Claude Code, GitHub Copilot, ChatGPT, Agentic Productivity Workflows, Prompt Engineering & Optimization
+* **AI/ML Integration & Agent Development**: Claude Code, OpenCode, GitHub Copilot, ChatGPT, Ollama (Local LLMs), Agentic Productivity Workflows
 * **Performance & Test Automation**: Playwright, k6, Automation Framework Design, AI-Driven Test Generation, Performance Baseline Testing
 * **Cloud & Infrastructure Architecture**: AWS, Docker, Azure (familiarity)
 * **Programming & Scripting**: Python, Java, JavaScript, C#
 * **CI/CD & DevOps**: Jenkins, GitHub Pipelines, Postman, TestNG, JUnit
 * **Databases**: MySQL, DynamoDB, Singlestore
 * **Technical Enablement**: Workshop Facilitation, Technical Training, Technical Discovery, Agile/Scrum, Cross-functional Stakeholder Management
+
+## PROJECTS
+
+### [Bin Butlers NC](https://binbutlersnc.com) | Full-Stack SaaS Platform
+
+* Built a full-stack scheduling and payment platform powered by Stripe for a professional bin cleaning service using Next.js 15, Cloudflare Workers, and D1 (SQLite) database.
+* Integrated third-party services (Stripe, Auth.js, Routific, Resend, Geoapify) via an interchangeable adapter architecture, decoupling core business logic from external dependencies.
+* Deployed end-to-end on Cloudflare infrastructure with GitHub Actions CI/CD, Worker cron jobs, and serverless persistence.
+* Developed entirely with AI-assisted workflows using OpenCode, demonstrating practical agentic development patterns from prototype to production.
 
 ## EXPERIENCE
 
@@ -30,8 +39,8 @@ MAY 2026-PRESENT NORTH BILLERICA, MA
 
 MARCH 2020-MAY 2026 NORTH BILLERICA, MA
 
-* Serve as the primary technical point of contact across a 6-year tenure, taking full accountability for fielding complex cross-product technical questions and diagnosing platform-wide performance issues.
-* Analyze business requirements and technical acceptance criteria to identify gaps, evaluate architecture trade-offs, and design strategic end-to-end validation solutions for front-end, back-end, and microservice features.
+* Served as the primary technical point of contact across a 6-year tenure, taking full accountability for fielding complex cross-product technical questions and diagnosing platform-wide performance issues.
+* Analyzed business requirements and technical acceptance criteria to identify gaps, evaluate architecture trade-offs, and design strategic end-to-end validation solutions for front-end, back-end, and microservice features.
 * Developed a comprehensive, scalable Python framework utilizing Pandas, NumPy, and PyTest libraries to interface with AWS S3 infrastructure and validate large-scale data transformations.
 * Spearheaded cross-team framework and infrastructure improvements within the SaaS environment, leading a successful initiative to move distributed microservices to an opt-in auto-deployment framework.
 * Designed and built custom AI agent skills and workflows to optimize daily engineering productivity, evaluating skill-based prompting vs. raw prompting to establish team best practices and accelerate onboarding for new engineers through reusable workflow patterns.
@@ -39,9 +48,9 @@ MARCH 2020-MAY 2026 NORTH BILLERICA, MA
 * Championed AI best practices across the organization, advocating for and helping define the company's AI specifications workflow to accelerate adoption of agentic development patterns.
 * As a sole engineer, performance-baselined a chatbot microservice end-to-end, covering both UI interaction and API performance using automation frameworks built with AI-assisted development.
 * Pioneered vertical subagent workflows for integration-level testing, shifting from piecemeal horizontal coverage to end-to-end test paths that surface system-level issues earlier.
-* Orchestrate and coordinate the release and deployment of multiple complex software product modules, managing extensive regression testing and mitigating risk in production environments.
-* Partner cross-functionally with Development, Product Management, and Support teams to troubleshoot and resolve critical infrastructure and system incidents, maintaining strict feature testability.
-* Assess full-stack release readiness and isolate environmental risks using tools such as Postman for API validation and Docker for complex environment virtualization.
+* Orchestrated and coordinated the release and deployment of multiple complex software product modules, managing extensive regression testing and mitigating risk in production environments.
+* Partnered cross-functionally with Development, Product Management, and Support teams to troubleshoot and resolve critical infrastructure and system incidents, maintaining strict feature testability.
+* Assessed full-stack release readiness and isolated environmental risks using tools such as Postman for API validation and Docker for complex environment virtualization.
 
 ### HighRes Biosolutions | Software Quality Assurance Engineer II
 
@@ -67,20 +76,20 @@ SEPTEMBER 2016-APRIL 2018 BEVERLY, MA
 
 * Led consultative technical discovery and requirements-gathering sessions directly with enterprise clients to align system architectures with their operational workflows.
 * Developed and implemented software solutions integrating physical laboratory automation devices with robotic systems to create autonomous, high-throughput physical simulation environments.
-* Taught robotic platforms spatial positioning and configured complex relational databases to ensure seamless software-to-hardware data pipelining.
+* Programmed spatial positioning for robotic platforms and configured complex relational databases to ensure seamless software-to-hardware data pipelining.
 
 ### PerkinElmer Inc. | Research Associate
 
 APRIL 2015-SEPTEMBER 2016 HOPKINTON, MA
 
-* Performed, optimized, and troubleshooted multiplex imaging assays, ensuring alignment between complex software analysis tools and laboratory hardware platforms.
+* Performed, optimized, and troubleshot multiplex imaging assays, ensuring alignment between complex software analysis tools and laboratory hardware platforms.
 * Partnered with senior team members to design and execute scientific experiments, leveraging data analysis software to interpret and present complex technical findings to stakeholders.
 
 ### MGH Institute of Health Professions  Simulation Lab Technician
 
 DECEMBER 2014-APRIL 2015 CHARLESTOWN, MA
 
-* Managed, configured, and troubleshooted physical simulation equipment and mannequin software to create highly realistic mock environments for educational training.
+* Managed, configured, and troubleshot physical simulation equipment and mannequin software to create highly realistic mock environments for educational training.
 
 ### Massachusetts General Hospital | Research Assistant
 
