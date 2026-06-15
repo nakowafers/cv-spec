@@ -1,0 +1,144 @@
+---
+import type { Experience } from "../types";
+
+interface Props {
+  experience: Experience[];
+}
+
+const { experience } = Astro.props;
+---
+
+<section class="card">
+  <h2 class="section-title">Experience</h2>
+  <div class="timeline">
+    {
+      experience.map((role, i) => (
+        <div class="role">
+          <div class="role-header">
+            <div class="role-left">
+              <h3 class="role-title">{role.title}</h3>
+              <span class="role-company">{role.company}</span>
+            </div>
+            <div class="role-meta">
+              <span class="role-dates">{role.startDate} — {role.endDate}</span>
+              <span class="role-location">{role.location}</span>
+            </div>
+          </div>
+          <ul class="role-highlights">
+            {role.highlights.map((h) => <li>{h}</li>)}
+          </ul>
+        </div>
+      ))
+    }
+  </div>
+</section>
+
+<style>
+  .timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .role {
+    position: relative;
+    padding-left: 0;
+  }
+
+  .role + .role {
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-divider);
+  }
+
+  .role-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.75rem;
+    gap: 1rem;
+  }
+
+  .role-left {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+
+  .role-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .role-company {
+    font-size: 0.875rem;
+    color: var(--color-accent);
+    font-weight: 500;
+  }
+
+  .role-meta {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.1rem;
+    flex-shrink: 0;
+  }
+
+  .role-dates {
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+
+  .role-location {
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+  }
+
+  .role-highlights {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .role-highlights li {
+    font-size: 0.875rem;
+    line-height: 1.55;
+    padding-left: 1rem;
+    position: relative;
+    color: var(--color-text);
+  }
+
+  .role-highlights li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    color: var(--color-accent);
+  }
+
+  @media print {
+    .role-header {
+      margin-bottom: 0.4rem;
+    }
+
+    .role-title {
+      font-size: 10pt;
+    }
+
+    .role-company {
+      font-size: 9pt;
+    }
+
+    .role-dates,
+    .role-location {
+      font-size: 8pt;
+    }
+
+    .role-highlights li {
+      font-size: 9pt;
+    }
+  }
+</style>

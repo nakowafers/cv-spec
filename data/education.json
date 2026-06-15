@@ -1,0 +1,17 @@
+[
+  {
+    "institution": "Northeastern University",
+    "degree": "Graduate Certificate in Bioinformatics",
+    "date": "December 2018",
+    "location": "Boston, MA",
+    "gpa": 4.0
+  },
+  {
+    "institution": "Boston College",
+    "degree": "B.S. in Biology, Minor in Computer Science",
+    "date": "May 2014",
+    "location": "Chestnut Hill, MA",
+    "gpa": 3.7,
+    "honors": "Cum Laude"
+  }
+]

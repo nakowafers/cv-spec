@@ -1,0 +1,30 @@
+[
+  {
+    "category": "AI/ML Integration & Agent Development",
+    "items": ["Claude Code", "OpenCode", "GitHub Copilot", "ChatGPT", "Ollama (Local LLMs)", "Agentic Productivity Workflows"]
+  },
+  {
+    "category": "Performance & Test Automation",
+    "items": ["Playwright", "k6", "Automation Framework Design", "AI-Driven Test Generation", "Performance Baseline Testing"]
+  },
+  {
+    "category": "Cloud & Infrastructure Architecture",
+    "items": ["AWS", "Docker", "Azure"]
+  },
+  {
+    "category": "Programming & Scripting",
+    "items": ["Python", "Java", "JavaScript", "C#"]
+  },
+  {
+    "category": "CI/CD & DevOps",
+    "items": ["Jenkins", "GitHub Pipelines", "Postman", "TestNG", "JUnit"]
+  },
+  {
+    "category": "Databases",
+    "items": ["MySQL", "DynamoDB", "Singlestore"]
+  },
+  {
+    "category": "Technical Enablement",
+    "items": ["Workshop Facilitation", "Technical Training", "Technical Discovery", "Agile/Scrum", "Cross-functional Stakeholder Management"]
+  }
+]

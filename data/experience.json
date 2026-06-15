@@ -1,0 +1,96 @@
+[
+  {
+    "company": "Curriculum Associates",
+    "title": "Senior Software Engineer II",
+    "startDate": "May 2026",
+    "endDate": "Present",
+    "location": "North Billerica, MA",
+    "highlights": [
+      "Transitioned into full-time core product development, contributing to the architecture, implementation, and maintenance of scalable front-end and back-end application workflows across enterprise SaaS modules.",
+      "Partner cross-functionally with engineering teams, product managers, and architects to review system designs and deliver clean, maintainable JavaScript, Python, and Java code, with a strict focus on test coverage, verifying specifications, and developing frameworks for release quality gates."
+    ]
+  },
+  {
+    "company": "Curriculum Associates",
+    "title": "Senior Software Quality Assurance Engineer II",
+    "startDate": "March 2020",
+    "endDate": "May 2026",
+    "location": "North Billerica, MA",
+    "highlights": [
+      "Designed and built custom AI agent skills and vertical subagent workflows that optimised developer productivity, shifting the team from siloed coverage to end-to-end validation. Developed an AI-driven test automation framework (Playwright, k6) with reusable AI skills that enabled teammates to independently generate and maintain coverage.",
+      "Championed AI best practices across the organisation, advocating for the adoption of agentic development workflows and continuously staying educated on emerging patterns and improvements to guide team practices.",
+      "Served as the primary technical point of contact, fielding complex cross-product technical questions and diagnosing platform-wide performance issues. Partnered with engineering, product, and architecture teams to analyse requirements, evaluate trade-offs, and design validation strategies.",
+      "As a sole engineer, performance-baselined a chatbot microservice end-to-end — covering both UI interaction and API performance — using automation frameworks built entirely with AI-assisted development.",
+      "Spearheaded cross-team infrastructure improvements, leading a successful initiative to migrate distributed microservices to an opt-in auto-deployment framework."
+    ]
+  },
+  {
+    "company": "HighRes Biosolutions",
+    "title": "Software Quality Assurance Engineer II",
+    "startDate": "July 2018",
+    "endDate": "March 2020",
+    "location": "Beverly, MA",
+    "highlights": [
+      "Owned end-to-end technical engagement as the first line of support for the company's flagship software product, guiding internal teams and external enterprise customers through complex system workflows.",
+      "Created and delivered highly technical software release presentations to stakeholders, expertly communicating product roadmaps, architectural dependencies, and technical advantages.",
+      "Partnered directly with software developers and product management to validate that implementation strategies successfully aligned with complex enterprise requirements.",
+      "Maintained code repositories using Git for source code management and configured, updated, and managed Jenkins-based build servers to support continuous delivery.",
+      "Utilized technical depth to aid in debugging, performance isolation, and troubleshooting within a complex C# codebase."
+    ]
+  },
+  {
+    "company": "HighRes Biosolutions",
+    "title": "Software Automation Engineer II",
+    "startDate": "April 2018",
+    "endDate": "July 2018",
+    "location": "Beverly, MA",
+    "highlights": [
+      "Trained and onboarded engineering team members in proper software architecture, hardware interfacing, and system setup.",
+      "Configured and optimized large-scale, automated hardware-and-software environments for scientific research labs and global pharmaceutical corporations.",
+      "Conducted technical scoping and effort assessment to define infrastructure requirements and implementation timelines for complex systems."
+    ]
+  },
+  {
+    "company": "HighRes Biosolutions",
+    "title": "Software Automation Engineer I",
+    "startDate": "September 2016",
+    "endDate": "April 2018",
+    "location": "Beverly, MA",
+    "highlights": [
+      "Led consultative technical discovery and requirements-gathering sessions directly with enterprise clients to align system architectures with their operational workflows.",
+      "Developed and implemented software solutions integrating physical laboratory automation devices with robotic systems to create autonomous, high-throughput physical simulation environments.",
+      "Programmed spatial positioning for robotic platforms and configured complex relational databases to ensure seamless software-to-hardware data pipelining."
+    ]
+  },
+  {
+    "company": "PerkinElmer Inc.",
+    "title": "Research Associate",
+    "startDate": "April 2015",
+    "endDate": "September 2016",
+    "location": "Hopkinton, MA",
+    "highlights": [
+      "Performed, optimized, and troubleshot multiplex imaging assays, ensuring alignment between complex software analysis tools and laboratory hardware platforms.",
+      "Partnered with senior team members to design and execute scientific experiments, leveraging data analysis software to interpret and present complex technical findings to stakeholders."
+    ]
+  },
+  {
+    "company": "MGH Institute of Health Professions",
+    "title": "Simulation Lab Technician",
+    "startDate": "December 2014",
+    "endDate": "April 2015",
+    "location": "Charlestown, MA",
+    "highlights": [
+      "Managed, configured, and troubleshot physical simulation equipment and mannequin software to create highly realistic mock environments for educational training."
+    ]
+  },
+  {
+    "company": "Massachusetts General Hospital",
+    "title": "Research Assistant",
+    "startDate": "September 2014",
+    "endDate": "March 2015",
+    "location": "Charlestown, MA",
+    "highlights": [
+      "Optimized high-throughput drug screening automation systems, configuring complex data aggregation tools and microplate-moving robotic instrumentation."
+    ]
+  }
+]

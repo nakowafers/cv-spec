@@ -1,0 +1,15 @@
+{
+  "name": "cv-spec",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "generate-pdf": "node scripts/generate-cv-md.js && pandoc CV.md --template=cv-template.tex -o Nicola_Kahale_CV.pdf --pdf-engine=xelatex --lua-filter=include.lua",
+    "generate-cv-md": "node scripts/generate-cv-md.js"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Bin Butlers NC",
+    "url": "https://binbutlersnc.com",
+    "subtitle": "Full-Stack SaaS Platform",
+    "highlights": [
+      "Built a full-stack scheduling and payment platform powered by Stripe for a professional bin cleaning service using Next.js 15, Cloudflare Workers, and D1 (SQLite) database.",
+      "Integrated third-party services (Stripe, Auth.js, Routific, Resend, Geoapify) via an interchangeable adapter architecture, decoupling core business logic from external dependencies.",
+      "Deployed end-to-end on Cloudflare infrastructure with GitHub Actions CI/CD, Worker cron jobs, and serverless persistence.",
+      "Developed entirely with AI-assisted workflows using OpenCode, demonstrating practical agentic development patterns from prototype to production."
+    ]
+  }
+]
