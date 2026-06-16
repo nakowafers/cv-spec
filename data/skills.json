@@ -17,7 +17,7 @@
   },
   {
     "category": "Cloud & Infrastructure Architecture",
-    "items": ["AWS", "Cloudflare", "Docker", "Azure"]
+    "items": ["AWS", "Cloudflare", "Docker", "Azure", "Datadog", "Splunk"]
   },
   {
     "category": "CI/CD & DevOps",

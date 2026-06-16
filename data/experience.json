@@ -19,7 +19,8 @@
     "highlights": [
       "Designed and built custom AI agent skills and vertical subagent workflows that optimized developer productivity, shifting the team from siloed coverage to end-to-end validation. Developed an AI driven test automation framework (Playwright, k6) with reusable AI skills that enabled teammates to independently generate and maintain coverage.",
       "Championed AI best practices across the organization, advocating for the adoption of agentic development workflows and continuously staying educated on emerging patterns and improvements to guide team practices.",
-      "As a sole engineer, established performance baselines for a chatbot microservice end to end covering both UI interaction and API performance using automation frameworks built entirely with AI assisted development."
+      "As a sole engineer, established performance baselines for a chatbot microservice end to end covering both UI interaction and API performance using automation frameworks built entirely with AI assisted development.",
+      "Led official production releases for the core product and microservices as part of a rotating release schedule, coordinating across engineering, QA, and product teams, managing testers, running release processes, and performing post release monitoring. Trusted to lead multi microservice releases spanning multiple teams."
     ]
   },
   {
@@ -54,10 +55,9 @@
     "location": "Beverly, MA",
     "highlights": [
       "Owned end-to-end technical engagement as the first line of support for the company's flagship software product, guiding internal teams and external enterprise customers through complex system workflows.",
-      "Created and delivered highly technical software release presentations to stakeholders, expertly communicating product roadmaps, architectural dependencies, and technical advantages.",
+      "Created and delivered highly technical software release presentations to stakeholders, communicating product roadmaps, architectural dependencies, and technical advantages.",
       "Partnered directly with software developers and product management to validate that implementation strategies successfully aligned with complex enterprise requirements.",
-      "Maintained code repositories using Git for source code management and configured, updated, and managed Jenkins-based build servers to support continuous delivery.",
-      "Utilized technical depth to aid in debugging, performance isolation, and troubleshooting within a complex C# codebase."
+      "Debugged and isolated performance issues within a complex C# codebase, troubleshooting production incidents across enterprise deployments."
     ]
   },
   {
@@ -67,8 +67,8 @@
     "endDate": "July 2018",
     "location": "Beverly, MA",
     "highlights": [
-      "Trained and onboarded engineering team members in proper software architecture, hardware interfacing, and system setup.",
-      "Configured and optimized large-scale, automated hardware-and-software environments for scientific research labs and global pharmaceutical corporations.",
+      "Trained and onboarded engineering team members in software architecture, hardware interfacing, and system setup.",
+      "Configured and optimized large-scale automated environments for scientific research labs and global pharmaceutical corporations.",
       "Conducted technical scoping and effort assessment to define infrastructure requirements and implementation timelines for complex systems."
     ]
   },
@@ -81,7 +81,7 @@
     "highlights": [
       "Led consultative technical discovery and requirements-gathering sessions directly with enterprise clients to align system architectures with their operational workflows.",
       "Developed and implemented software solutions integrating physical laboratory automation devices with robotic systems to create autonomous, high-throughput physical simulation environments.",
-      "Programmed spatial positioning for robotic platforms and configured complex relational databases to ensure seamless software-to-hardware data pipelining."
+      "Programmed spatial positioning for robotic platforms and configured relational databases to enable software-to-hardware data pipelining across automated lab systems."
     ]
   },
   {

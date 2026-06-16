@@ -12,7 +12,7 @@ Senior Software Engineer at a large edtech SaaS company who built custom AI agen
 * **Technical Enablement & Customer Success**: Workshop Facilitation, Technical Training, Technical Discovery, Cross-functional Stakeholder Management, Agile/Scrum
 * **AI Augmented Test & Performance Automation**: Playwright, k6, AI Driven Test Generation, Performance Baseline Testing, Automation Framework Design
 * **Programming & Scripting**: Python, JavaScript, Java, C#
-* **Cloud & Infrastructure Architecture**: AWS, Cloudflare, Docker, Azure
+* **Cloud & Infrastructure Architecture**: AWS, Cloudflare, Docker, Azure, Datadog, Splunk
 * **CI/CD & DevOps**: GitHub Actions, Jenkins, Postman, TestNG, JUnit
 * **Databases**: MySQL, DynamoDB, Singlestore
 
@@ -41,6 +41,7 @@ Aug 2025-Feb 2026 North Billerica, MA
 * Designed and built custom AI agent skills and vertical subagent workflows that optimized developer productivity, shifting the team from siloed coverage to end-to-end validation. Developed an AI driven test automation framework (Playwright, k6) with reusable AI skills that enabled teammates to independently generate and maintain coverage.
 * Championed AI best practices across the organization, advocating for the adoption of agentic development workflows and continuously staying educated on emerging patterns and improvements to guide team practices.
 * As a sole engineer, established performance baselines for a chatbot microservice end to end covering both UI interaction and API performance using automation frameworks built entirely with AI assisted development.
+* Led official production releases for the core product and microservices as part of a rotating release schedule, coordinating across engineering, QA, and product teams, managing testers, running release processes, and performing post release monitoring. Trusted to lead multi microservice releases spanning multiple teams.
 
 ### Curriculum Associates | Senior Quality Assurance Engineer I
 
@@ -63,17 +64,16 @@ Mar 2020-Mar 2022 North Billerica, MA
 July 2018-March 2020 Beverly, MA
 
 * Owned end-to-end technical engagement as the first line of support for the company's flagship software product, guiding internal teams and external enterprise customers through complex system workflows.
-* Created and delivered highly technical software release presentations to stakeholders, expertly communicating product roadmaps, architectural dependencies, and technical advantages.
+* Created and delivered highly technical software release presentations to stakeholders, communicating product roadmaps, architectural dependencies, and technical advantages.
 * Partnered directly with software developers and product management to validate that implementation strategies successfully aligned with complex enterprise requirements.
-* Maintained code repositories using Git for source code management and configured, updated, and managed Jenkins-based build servers to support continuous delivery.
-* Utilized technical depth to aid in debugging, performance isolation, and troubleshooting within a complex C# codebase.
+* Debugged and isolated performance issues within a complex C# codebase, troubleshooting production incidents across enterprise deployments.
 
 ### HighRes Biosolutions | Software Automation Engineer II
 
 April 2018-July 2018 Beverly, MA
 
-* Trained and onboarded engineering team members in proper software architecture, hardware interfacing, and system setup.
-* Configured and optimized large-scale, automated hardware-and-software environments for scientific research labs and global pharmaceutical corporations.
+* Trained and onboarded engineering team members in software architecture, hardware interfacing, and system setup.
+* Configured and optimized large-scale automated environments for scientific research labs and global pharmaceutical corporations.
 * Conducted technical scoping and effort assessment to define infrastructure requirements and implementation timelines for complex systems.
 
 ### HighRes Biosolutions | Software Automation Engineer I
@@ -82,7 +82,7 @@ September 2016-April 2018 Beverly, MA
 
 * Led consultative technical discovery and requirements-gathering sessions directly with enterprise clients to align system architectures with their operational workflows.
 * Developed and implemented software solutions integrating physical laboratory automation devices with robotic systems to create autonomous, high-throughput physical simulation environments.
-* Programmed spatial positioning for robotic platforms and configured complex relational databases to ensure seamless software-to-hardware data pipelining.
+* Programmed spatial positioning for robotic platforms and configured relational databases to enable software-to-hardware data pipelining across automated lab systems.
 
 ### PerkinElmer Inc. | Research Associate
 
