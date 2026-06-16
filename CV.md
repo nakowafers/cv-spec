@@ -8,13 +8,13 @@ Senior Software Engineer at a large edtech SaaS company who built custom AI agen
 
 ## SKILLS
 
-* **AI/ML Integration & Agent Development**: Claude Code, OpenCode, GitHub Copilot, ChatGPT, Ollama (Local LLMs), Agentic Productivity Workflows
-* **Performance & Test Automation**: Playwright, k6, Automation Framework Design, AI-Driven Test Generation, Performance Baseline Testing
-* **Cloud & Infrastructure Architecture**: AWS, Docker, Azure
-* **Programming & Scripting**: Python, Java, JavaScript, C#
-* **CI/CD & DevOps**: Jenkins, GitHub Pipelines, Postman, TestNG, JUnit
+* **AI Tooling & Agent Development**: Claude Code, OpenCode, GitHub Copilot, Codex, ChatGPT, Ollama (Local LLMs), Agentic Workflow Design, Prompt Engineering, Reusable Skill Development
+* **Technical Enablement & Customer Success**: Workshop Facilitation, Technical Training, Technical Discovery, Cross-functional Stakeholder Management, Agile/Scrum
+* **AI Augmented Test & Performance Automation**: Playwright, k6, AI Driven Test Generation, Performance Baseline Testing, Automation Framework Design
+* **Programming & Scripting**: Python, JavaScript, Java, C#
+* **Cloud & Infrastructure Architecture**: AWS, Cloudflare, Docker, Azure
+* **CI/CD & DevOps**: GitHub Actions, Jenkins, Postman, TestNG, JUnit
 * **Databases**: MySQL, DynamoDB, Singlestore
-* **Technical Enablement**: Workshop Facilitation, Technical Training, Technical Discovery, Agile/Scrum, Cross-functional Stakeholder Management
 
 ## PROJECTS
 
