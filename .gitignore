@@ -1,4 +1,5 @@
 /.opencode/plans
+.astro/
 *.pdf
 *.aux
 *.log
