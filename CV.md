@@ -31,8 +31,8 @@ Senior Software Engineer at a large edtech SaaS company who built custom AI agen
 
 Feb 2026-Present North Billerica, MA
 
-* Transitioned into full-time core product development, contributing to the architecture, implementation, and maintenance of scalable front-end and back-end application workflows across enterprise SaaS modules.
-* Partnered cross-functionally with engineering teams, product managers, and architects to review system designs and deliver clean, maintainable JavaScript, Python, and Java code, with a strict focus on test coverage, verifying specifications, and developing frameworks for release quality gates.
+* Contributes to the architecture, implementation, and maintenance of scalable front-end and back-end application workflows across enterprise SaaS modules.
+* Partners cross-functionally with engineering teams, product managers, and architects to review system designs and deliver clean, maintainable JavaScript, Python, and Java code with a strict focus on test coverage, verifying specifications, and developing frameworks for release quality gates.
 
 ### Curriculum Associates | Senior Quality Assurance Engineer II
 
@@ -40,7 +40,7 @@ Aug 2025-Feb 2026 North Billerica, MA
 
 * Designed and built custom AI agent skills and vertical subagent workflows that optimized developer productivity, shifting the team from siloed coverage to end-to-end validation. Developed an AI driven test automation framework (Playwright, k6) with reusable AI skills that enabled teammates to independently generate and maintain coverage.
 * Championed AI best practices across the organization, advocating for the adoption of agentic development workflows and continuously staying educated on emerging patterns and improvements to guide team practices.
-* As a sole engineer, performance baselined a chatbot microservice end to end covering both UI interaction and API performance using automation frameworks built entirely with AI assisted development.
+* As a sole engineer, established performance baselines for a chatbot microservice end to end covering both UI interaction and API performance using automation frameworks built entirely with AI assisted development.
 
 ### Curriculum Associates | Senior Quality Assurance Engineer I
 
