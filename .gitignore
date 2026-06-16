@@ -1,4 +1,7 @@
 /.opencode/plans
 *.pdf
+*.aux
+*.log
+*.out
 node_modules/
 dist/
