@@ -29,20 +29,34 @@ Senior Software Engineer at a large edtech SaaS company who built custom AI agen
 
 ### Curriculum Associates | Senior Software Engineer II
 
-May 2026-Present North Billerica, MA
+Feb 2026-Present North Billerica, MA
 
 * Transitioned into full-time core product development, contributing to the architecture, implementation, and maintenance of scalable front-end and back-end application workflows across enterprise SaaS modules.
-* Partner cross-functionally with engineering teams, product managers, and architects to review system designs and deliver clean, maintainable JavaScript, Python, and Java code, with a strict focus on test coverage, verifying specifications, and developing frameworks for release quality gates.
+* Partnered cross-functionally with engineering teams, product managers, and architects to review system designs and deliver clean, maintainable JavaScript, Python, and Java code, with a strict focus on test coverage, verifying specifications, and developing frameworks for release quality gates.
 
-### Curriculum Associates | Senior Software Quality Assurance Engineer II
+### Curriculum Associates | Senior Quality Assurance Engineer II
 
-March 2020-May 2026 North Billerica, MA
+Aug 2025-Feb 2026 North Billerica, MA
 
-* Designed and built custom AI agent skills and vertical subagent workflows that optimised developer productivity, shifting the team from siloed coverage to end-to-end validation. Developed an AI-driven test automation framework (Playwright, k6) with reusable AI skills that enabled teammates to independently generate and maintain coverage.
-* Championed AI best practices across the organisation, advocating for the adoption of agentic development workflows and continuously staying educated on emerging patterns and improvements to guide team practices.
-* Served as the primary technical point of contact, fielding complex cross-product technical questions and diagnosing platform-wide performance issues. Partnered with engineering, product, and architecture teams to analyse requirements, evaluate trade-offs, and design validation strategies.
-* As a sole engineer, performance-baselined a chatbot microservice end-to-end — covering both UI interaction and API performance — using automation frameworks built entirely with AI-assisted development.
+* Designed and built custom AI agent skills and vertical subagent workflows that optimized developer productivity, shifting the team from siloed coverage to end-to-end validation. Developed an AI driven test automation framework (Playwright, k6) with reusable AI skills that enabled teammates to independently generate and maintain coverage.
+* Championed AI best practices across the organization, advocating for the adoption of agentic development workflows and continuously staying educated on emerging patterns and improvements to guide team practices.
+* As a sole engineer, performance baselined a chatbot microservice end to end covering both UI interaction and API performance using automation frameworks built entirely with AI assisted development.
+
+### Curriculum Associates | Senior Quality Assurance Engineer I
+
+Mar 2022-Aug 2025 North Billerica, MA
+
+* Served as the primary technical point of contact, fielding complex cross-product technical questions and diagnosing platform-wide performance issues. Partnered with engineering, product, and architecture teams to analyze requirements, evaluate trade-offs, and design validation strategies.
 * Spearheaded cross-team infrastructure improvements, leading a successful initiative to migrate distributed microservices to an opt-in auto-deployment framework.
+
+### Curriculum Associates | Quality Assurance Engineer
+
+Mar 2020-Mar 2022 North Billerica, MA
+
+* Collaborated with developers and product owners to define test strategies for educator facing and reporting features across the edtech platform.
+* Participated in acceptance meetings with product managers to verify and sign off on tested features before release.
+* Prepared and maintained test data sets to support manual and exploratory testing across multiple product modules.
+* Developed test plans for the educator and reporting experience, ensuring coverage of complex data presentation and classroom workflow scenarios.
 
 ### HighRes Biosolutions | Software Quality Assurance Engineer II
 
